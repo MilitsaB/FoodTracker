@@ -3,9 +3,12 @@ Food and Calorie Intake Tracker Web Application with MERN Stack
 
 ## What it does
 
-
-<img src="./images/CreateUser.png">
 <img src="./images/MealLogs.png">
+<img src="./images/DataAnalytics.png">
+<img src="./images/DataAnalytics1.png">
+<img src="./images/CreateUser.png">
+<img src="./images/CreateMeal.png">
+
 
 
 ## How we built it
